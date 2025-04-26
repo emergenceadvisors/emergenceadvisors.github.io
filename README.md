@@ -1,6 +1,6 @@
 # emergenceadvisors.github.io
 
-![Emergence Advisors Logo](logo-1.jpg)
+![Emergence Advisors Logo](logo.jpg)
 
 # Emergence Advisors Website
 
